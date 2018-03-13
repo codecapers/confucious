@@ -1,8 +1,9 @@
 {
   "name": "confucious",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "App configuration management. Kind of like nconf, but easier to use, predicable and more flexible.",
   "main": "index.js",
+  "types": "confucious.d.ts",
   "scripts": {
     "test": "mocha"
   },
@@ -25,5 +26,5 @@
     "chai": "^3.3.0",
     "extend": "^3.0.0",
     "yargs": "^3.26.0"
-  }
+    }
 }

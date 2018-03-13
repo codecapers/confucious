@@ -1,4 +1,4 @@
-# confucious
+# confucious [![npm](https://img.shields.io/npm/v/confucious.svg)](https://www.npmjs.com/package/confucious)
 
 A simple, stack-based, key/value configuration manager. 
 
